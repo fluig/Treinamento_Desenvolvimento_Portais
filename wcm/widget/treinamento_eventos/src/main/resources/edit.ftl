@@ -19,7 +19,6 @@
 		        <button type="button" class="btn btn-success" data-salvarPreferencias>Salvar</button>
 		    </div>
 	    </div>
-
     </div>
 </div>
 
